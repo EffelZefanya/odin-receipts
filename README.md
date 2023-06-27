@@ -10,4 +10,7 @@ Created by Effel Zefanya
 
 ## Self-Reflection
 
-Made with guidance from [TheOdinProject](https://www.theodinproject.com/lessons/foundations-recipes)
+## References
+- Recipes were received from [allrecipes](https://www.allrecipes.com/)
+
+- Made with guidance from [TheOdinProject](https://www.theodinproject.com/lessons/foundations-recipes)
