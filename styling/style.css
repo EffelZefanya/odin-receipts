@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+
+ul{
+    background-color: darkred;
+    color: white;
+}
+
+ul a{
+    color: white;
+}
+
+ol{
+    background-color: darkgreen;
+    color: white;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
